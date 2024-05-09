@@ -16,26 +16,41 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+   
 
+<div align="center">
+<img src= "https://github.com/Daniela2319/lab-natty-or-not/assets/106537496/1f1299bf-dfe7-43f4-b29f-6c8a9dff4cd5" width= 100 >
+ </div>
+ <div align="center">
+ <a href="https://youtu.be/V1eNXG7QmeA?si=yDdqVbu0s3bOpoHv"> PodCastDani </a>
+ </div>
+
+ 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# PodCast Dani ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Explorando IAs Generativas Utilizei essa tecnologia para cria "Podcast Dani"
+com a minha voz e a apresentação em vídeo utilizei a ferramenta D-ID combinações bem sucedidas!
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+- D-ID
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+Eu gravei minha voz no gravador de som do computador, varias vez até fica bom. No site D-ID na opão vídeo
+escolhi o avatar que iria utilizar a minha voz. 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
+Em cima está o video no youtube como ficou essa combinação. Em baixo do clip animação.
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+Realmente a IA generativa deixou supresa com os detalhes dos labios, os movimentos dos braços,
+possibilidade coloca a sua voz e ela fala perfeitamente, claro tem falhas! mas são minimas. 
 ```
 
 ### Exemplos e Insigths
